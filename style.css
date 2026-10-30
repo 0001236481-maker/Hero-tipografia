@@ -4,8 +4,50 @@
     box-sizing: border-box;
 }
 
-body{
-    background-color: rgb(244, 244, 242);
-    text-align: center;
 
+.tag{
+    background-color: #f804044d;
+    border-radius: 30%;
+}
+
+
+.subtitulo{
+    line-height: 1.7px;
+    margin-bottom: 3%;
+}
+
+
+h1{
+    height: 3.5rem;
+    font-size: 50px;
+    margin-top: 0.25%;
+    margin-bottom: 8%;
+   
+}
+
+body{
+    background-color: rgb(63, 1, 1);
+    text-align: center;
+    margin-top: 25%;
+
+}
+
+header {
+    color: #fcf9f9;
+}
+
+.btn1{
+    
+    font-size: medium;
+    letter-spacing: 10%;
+    background-color: black;
+    color: #ffffff;
+}
+
+.btn2{
+   
+    font-size: medium;
+    letter-spacing: 10%;
+    background-color: black;
+    color: #ffffff;
 }
